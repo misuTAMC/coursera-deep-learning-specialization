@@ -176,7 +176,7 @@ Here are the course summary as its given on the course [link](https://www.course
   ![](Images/07.png)
   - Where the first equation is the loss for one example and the loss for the whole sequence is given by the summation over all the calculated single example losses.
 - Graph with losses:   
-  ![](Images/08.png)
+  ![](Images/08fix.png)
 - The backpropagation here is called **backpropagation through time** because we pass activation `a` from one sequence element to another like backwards in time.
 
 ### Different types of RNNs
