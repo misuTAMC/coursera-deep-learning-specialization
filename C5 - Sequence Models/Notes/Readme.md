@@ -339,6 +339,8 @@ Here are the course summary as its given on the course [link](https://www.course
   - Equations:   
     ![](Images/20fix.png)
   - Shapes are the same
+  - Notations in GRU:
+    ![](Images/notation in gru.png)
 - So why we use these architectures, why don't we change them, how we know they will work, why not add another gate, why not use the simpler GRU instead of the full GRU; well researchers has experimented over years all the various types of these architectures with many many different versions and also addressing the vanishing gradient problem. They have found that full GRUs are one of the best RNN architectures  to be used for many different problems. You can make your design but put in mind that GRUs and LSTMs are standards.
 
 ### Long Short Term Memory (LSTM)
